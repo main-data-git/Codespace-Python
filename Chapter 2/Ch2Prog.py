@@ -23,7 +23,7 @@
 # print(b)
 
 
-#Logical operators 
+# Logical operators 
 # e = True or False 
 # print(e)
 # e = True and False
